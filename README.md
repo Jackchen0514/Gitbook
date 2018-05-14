@@ -19,5 +19,9 @@ sudo make
 sudo make install
 ```
 
+### 查看 node.js 是否安装成功
 
+```text
+node -v
+```
 
